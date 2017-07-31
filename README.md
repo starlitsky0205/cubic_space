@@ -1,1 +1,1 @@
-# cubic_space
+# cubicspace
